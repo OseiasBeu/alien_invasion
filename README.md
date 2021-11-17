@@ -5,5 +5,10 @@
 atingir a espaçonave do jogador ou alcançar a parte inferior da tela, o jogador perderá uma nave. Se o jogador perder três espaçonaves, o
 jogo terminará."
 
+
+## Links uteis:
 Arquivos importantes: 
 https://github.com/ehmatthes/pcc_2e/tree/master/chapter_12
+
+Imagens gratuitas:
+https://pixabay.com/
