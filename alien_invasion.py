@@ -19,7 +19,8 @@ def run_game():
 
     # Inicia o laço principal do jogo
     while True:
-        gf.check_events()
+        gf.check_events(ship)
+        ship.update()
         gf.update_screen(ai_settings,screen,ship)
         # Observa eventos de teclado e de mouse
         # Redesenha a tela a cada passagem pelo laço
