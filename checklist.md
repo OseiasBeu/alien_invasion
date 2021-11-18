@@ -5,8 +5,8 @@
  - [x] Criar funnção de inicialização.
  - [x] Criar espaçonave
  - [x] Criar controles da espaçonave
- - [ ] Ajustar velocidade da nave
- - [ ] Implementar limites da tela
+ - [x] Ajustar velocidade da nave
+ - [x] Implementar limites da tela
  - [ ] Implementar sistema de tiro
  - [ ] 
  - [ ] 
