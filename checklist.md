@@ -8,6 +8,6 @@
  - [x] Ajustar velocidade da nave
  - [x] Implementar limites da tela
  - [x] Implementar sistema de tiro
- - [ ] Apagando projéteis antigos
- - [ ] Limpando número de projéteis
- - [ ] 
+ - [x] Apagando projéteis antigos
+ - [ ] Limitando o número de projéteis
+ - [ ] Criando uma função de recarregamento de bullets
