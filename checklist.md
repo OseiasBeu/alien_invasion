@@ -7,6 +7,7 @@
  - [x] Criar controles da espaçonave
  - [x] Ajustar velocidade da nave
  - [x] Implementar limites da tela
- - [ ] Implementar sistema de tiro
- - [ ] 
+ - [x] Implementar sistema de tiro
+ - [ ] Apagando projéteis antigos
+ - [ ] Limpando número de projéteis
  - [ ] 
