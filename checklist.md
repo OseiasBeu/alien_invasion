@@ -14,6 +14,7 @@
  - [x] Refatoração do sistema de disparo
  - [x] Adicionar botão/tecla de finalização do jogo
  - [x] Criando o primeiro alienigena
- - [] Construir uma frota de aliens
- - [] Determinando quantos aliens cabem em uma linha
+ - [x] Construir uma frota de aliens
+ - [x] Determinando quantos aliens cabem em uma linha
+ - [] Refatoração da create_fleet
  
