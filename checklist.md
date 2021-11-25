@@ -12,4 +12,5 @@
  - [x] Limitando o número de projéteis
  - [x] Criando uma função de recarregamento de bullets
  - [x] Refatoração do sistema de disparo
- 
+ - [x] Adicionar botão/tecla de finalização do jogo
+ - [] Criando o primeiro alienigena
