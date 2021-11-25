@@ -13,4 +13,7 @@
  - [x] Criando uma função de recarregamento de bullets
  - [x] Refatoração do sistema de disparo
  - [x] Adicionar botão/tecla de finalização do jogo
- - [] Criando o primeiro alienigena
+ - [x] Criando o primeiro alienigena
+ - [] Construir uma frota de aliens
+ - [] Determinando quantos aliens cabem em uma linha
+ 
