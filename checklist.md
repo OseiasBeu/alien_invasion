@@ -16,5 +16,7 @@
  - [x] Criando o primeiro alienigena
  - [x] Construir uma frota de aliens
  - [x] Determinando quantos aliens cabem em uma linha
- - [] Refatoração da create_fleet
+ - [x] Refatoração da create_fleet
+ - [] Adicionando linhas
+ - [] Fazendo a frota se mover
  
