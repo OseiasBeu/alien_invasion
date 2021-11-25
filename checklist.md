@@ -9,5 +9,7 @@
  - [x] Implementar limites da tela
  - [x] Implementar sistema de tiro
  - [x] Apagando projéteis antigos
- - [ ] Limitando o número de projéteis
- - [ ] Criando uma função de recarregamento de bullets
+ - [x] Limitando o número de projéteis
+ - [x] Criando uma função de recarregamento de bullets
+ - [x] Refatoração do sistema de disparo
+ 

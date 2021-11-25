@@ -12,8 +12,9 @@ def check_keydown_events(event,ai_settings, screen,ship, bullets):
         ship.moving_left = True
     elif event.key == pygame.K_SPACE:
         # Cria um novo projétil e o adiciona ao grupo de projéteis
-        new_bullet = Bullet(ai_settings,screen,ship)
-        bullets.add(new_bullet)
+        if len(bullets) < ai_settings.bullets_allowed:
+            new_bullet = Bullet(ai_settings,screen,ship)
+            bullets.add(new_bullet)
     
 def check_keyup_events(event, ship):
     """Responde a solturas de tecla."""
@@ -44,3 +45,15 @@ def update_screen(ai_settings, screen, ship,bullets):
 
     # Deixa a tela mais recente visivel
     pygame.display.flip()
+
+def update_bullets(bullets):
+    """ Atualiza a posição dos projéteis e se livra dos projéteis antigos. """
+
+    #Atualia as posições dos projéteis
+    bullets.update()
+
+    #Livra-se dos projéteis que desaparecem
+    for bullet in bullets.copy():
+        if bullet.rect.bottom <= 0:
+            bullets.remove(bullets)
+        # print(len(bullets))
