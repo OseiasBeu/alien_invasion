@@ -26,7 +26,8 @@
  - [x] refatortando a atualização dos projéteis
  - [x] Detectando colições com a espaçonave
  - [x] Alienigenas que alcançam a parte inferior da tela
- - [] End game
- - [] ...
+ - [x] End game
+ - [] Pontuação
+ - [] Adicioando o botão de play
 
  

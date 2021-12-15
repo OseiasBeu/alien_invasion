@@ -36,11 +36,11 @@ def run_game():
     # Inicia o laço principal do jogo
     while True: 
         gf.check_events(ai_settings, screen,ship, bullets)
-        ship.update()
-        gf.update_bullets(ai_settings, screen, ship, aliens, bullets)
-        gf.update_aliens(ai_settings, stats, screen, ship, aliens, bullets)
-        gf.update_screen(ai_settings, screen, ship, aliens, bullets)
-        # Observa eventos de teclado e de mouse
-        # Redesenha a tela a cada passagem pelo laço
+        if stats.game_active:
+            ship.update()
+            gf.update_bullets(ai_settings, screen, ship, aliens, bullets)
+            gf.update_aliens(ai_settings, stats, screen, ship, aliens, bullets)
+            gf.update_screen(ai_settings, screen, ship, aliens, bullets)
+
 run_game()
 
