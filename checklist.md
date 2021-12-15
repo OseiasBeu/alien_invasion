@@ -25,9 +25,8 @@
  - [x] Aumentando a velocidade dos projéteis
  - [x] refatortando a atualização dos projéteis
  - [x] Detectando colições com a espaçonave
- - [] Alienigenas que alcançam a parte inferior da tela
- - [] ...
- - [] ...
+ - [x] Alienigenas que alcançam a parte inferior da tela
+ - [] End game
  - [] ...
 
  
