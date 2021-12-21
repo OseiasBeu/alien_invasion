@@ -28,6 +28,6 @@
  - [x] Alienigenas que alcançam a parte inferior da tela
  - [x] End game
  - [] Pontuação
- - [] Adicioando o botão de play
+ - [x] Adicioando o botão de play
 
  
