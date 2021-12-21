@@ -29,5 +29,5 @@
  - [x] End game
  - [] Pontuação
  - [x] Adicioando o botão de play
-
+ - [] Desativando o botão Play
  
