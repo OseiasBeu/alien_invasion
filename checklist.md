@@ -27,7 +27,7 @@
  - [x] Detectando colições com a espaçonave
  - [x] Alienigenas que alcançam a parte inferior da tela
  - [x] End game
- - [] Pontuação
+ - [x] Pontuação
  - [x] Adicioando o botão de play
- - [] Desativando o botão Play
+ - [x] Desativando o botão Play
  
